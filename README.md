@@ -9,7 +9,7 @@ This is my solution to the [Coding bootcamp testimonials slider challenge on Fro
 
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub]()
+- Live Site URL: [GitHub](https://kalebemax.github.io/coding-bootcamp-testimonials-slider-master/)
 
 
 
