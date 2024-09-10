@@ -8,7 +8,7 @@ This is my solution to the [Coding bootcamp testimonials slider challenge on Fro
 
 
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-using-bootstrap-ekioMHi5DB)
 - Live Site URL: [GitHub](https://kalebemax.github.io/coding-bootcamp-testimonials-slider-master/)
 
 
